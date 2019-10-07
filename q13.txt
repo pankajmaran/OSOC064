@@ -1,0 +1,1 @@
+ stash provide us the ability to work simultaneously on multiple branches. Git stash saves our work in a separate zone named stash.
