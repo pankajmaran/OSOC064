@@ -1,0 +1,3 @@
+commit:records the changes to the repository
+push:it push the file from local repository to global repository
+pull:When you push, all the commits you made in your local repository will be transferred to the remote repository.

@@ -1,0 +1,6 @@
+chmod is use to change permission of file.
+we use + sign to grant permmission and - to revoke it.
+we can give premissons to user,group and owner,
+for example:$chmod u+x,g+w,o+r grep.txt
+here u stands for owner,g stands for group and o stands for others
+
