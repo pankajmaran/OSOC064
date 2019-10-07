@@ -1,0 +1,2 @@
+Grep stands for global regular expression print.it process text line by line and print any line which match the specified pattern.
+grep is powerful search command.
